@@ -1,2 +1,1 @@
-woxihuanzhangzhipeng
-bla bla bla
+print (365*24*60*60)
